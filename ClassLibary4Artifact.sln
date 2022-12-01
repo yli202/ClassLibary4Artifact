@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibary4Artifact", "ClassLibary4Artifact\ClassLibary4Artifact.csproj", "{F6E6E82E-CDA8-4C6C-B33C-DEA979F3A0A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6E6E82E-CDA8-4C6C-B33C-DEA979F3A0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E6E82E-CDA8-4C6C-B33C-DEA979F3A0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E6E82E-CDA8-4C6C-B33C-DEA979F3A0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E6E82E-CDA8-4C6C-B33C-DEA979F3A0A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B61DFF33-9EE7-47FA-B5D3-AF74CD9C9F8A}
+	EndGlobalSection
+EndGlobal
